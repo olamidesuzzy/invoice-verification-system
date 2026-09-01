@@ -62,4 +62,4 @@ The Power Automate flow export lives in `power-automate/` (see `power-automate/f
 
 ## Author
 
-Suzan Olamide Oluoma | Munich, Germany | olamidesuzzy@gmail.com | linkedin.com/in/oluoma-suzan
+Suzan Olamide Oluoma | Munich, Germany | olamidesuzzy@gmail.com | www.linkedin.com/in/oluoma-suzan
