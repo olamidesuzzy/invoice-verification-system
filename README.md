@@ -33,7 +33,11 @@ The approval cycle dropped from about three days of chasing to under two hours, 
 
 ## Demo video
 
-A short walkthrough of the app is in this repo: [demo-video.mp4](demo-video.mp4)
+Watch the walkthrough (2 minutes):
+
+https://youtu.be/ERCdc5ukXPU
+
+(The original recording is also kept in this repo as `demo-video.mp4`.)
 
 ## Stack
 
